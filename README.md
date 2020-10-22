@@ -1,3 +1,12 @@
+Planned Work in this Fork
+=========================
+
+- []  cmake build
+- []  stream over network the data read
+
+
+
+
 SpikeGLX
 =========
 
